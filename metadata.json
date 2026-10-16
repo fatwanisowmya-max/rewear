@@ -1,0 +1,8 @@
+{
+  "name": "Rewear — Give Clothes Another Life",
+  "description": "Fashion sustainability and circular branding platform encouraging responsible clothing reuse through Resell, Exchange, Upcycle, and Donate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
